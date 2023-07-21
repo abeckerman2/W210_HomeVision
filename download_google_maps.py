@@ -4,7 +4,7 @@ import requests
 import time
 
 # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-API_KEY = 'AIzaSyCvjTEUg431ZZSVGL_uVp6tnvWnn9ntfWo'
+API_KEY = 'YOUR_API_KEY'
 ZOOM = 20  # The highest zoom level possible for satellite images
 OUTPUT_FOLDER = 'satellite_images'
 DELAY_SECONDS = 2
